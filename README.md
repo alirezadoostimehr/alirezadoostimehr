@@ -24,3 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadoostimehr&layout=donut&theme=aura_dark&title_color=fff&text_color=fff&card_width=150)
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=alirezadoostimehr&theme=aura_dark&border_radius=10&card_width=500&mode=weekly" alt="alirezadoostimehr" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
